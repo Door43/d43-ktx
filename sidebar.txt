@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ktx:home|Door43 (ktx)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ktx|d43-ktx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ktx/archive/master.zip|d43-ktx.zip]]
+
+**Recent Changes**
+{{changes>ns = ktx}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ktx|Ethnologue data]]
+
